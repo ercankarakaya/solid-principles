@@ -1,11 +1,11 @@
-package com.ercan.LiskovSubstitution.app;
+package com.ercan.LiskovSubstitution.example1;
 
-import com.ercan.LiskovSubstitution.Bird;
-import com.ercan.LiskovSubstitution.Flyable;
-import com.ercan.LiskovSubstitution.impl.Crow;
-import com.ercan.LiskovSubstitution.impl.Ostrich;
-import com.ercan.LiskovSubstitution.impl.Penguen;
-import com.ercan.LiskovSubstitution.impl.Sparrow;
+import com.ercan.LiskovSubstitution.example1.Bird;
+import com.ercan.LiskovSubstitution.example1.Flyable;
+import com.ercan.LiskovSubstitution.example1.impl.Crow;
+import com.ercan.LiskovSubstitution.example1.impl.Ostrich;
+import com.ercan.LiskovSubstitution.example1.impl.Penguen;
+import com.ercan.LiskovSubstitution.example1.impl.Sparrow;
 
 import java.util.Arrays;
 import java.util.List;

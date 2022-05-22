@@ -1,4 +1,4 @@
-package com.ercan.DependencyInversion.app;
+package com.ercan.DependencyInversion;
 
 import com.ercan.DependencyInversion.IOperationValidation;
 import com.ercan.DependencyInversion.Validation;

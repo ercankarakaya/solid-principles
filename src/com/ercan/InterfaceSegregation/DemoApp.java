@@ -1,4 +1,4 @@
-package com.ercan.InterfaceSegregation.app;
+package com.ercan.InterfaceSegregation;
 
 import com.ercan.InterfaceSegregation.Doc;
 import com.ercan.InterfaceSegregation.UserDataOperation;

@@ -1,7 +1,7 @@
-package com.ercan.LiskovSubstitution.impl;
+package com.ercan.LiskovSubstitution.example1.impl;
 
-import com.ercan.LiskovSubstitution.Bird;
-import com.ercan.LiskovSubstitution.Flyable;
+import com.ercan.LiskovSubstitution.example1.Bird;
+import com.ercan.LiskovSubstitution.example1.Flyable;
 
 public class Crow implements Bird, Flyable {
 

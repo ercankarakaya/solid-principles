@@ -1,6 +1,8 @@
 package com.ercan.OpenClosed.example2.after;
 
 
+import com.ercan.OpenClosed.example2.after.impl.DescComparator;
+
 public class MainApp {
     public static void main(String[] args) {
 

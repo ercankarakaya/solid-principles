@@ -1,4 +1,4 @@
-package com.ercan.SingleResponsibility.example2.main;
+package com.ercan.SingleResponsibility.example2;
 
 import com.ercan.SingleResponsibility.example2.entity.Address;
 import com.ercan.SingleResponsibility.example2.entity.User;
