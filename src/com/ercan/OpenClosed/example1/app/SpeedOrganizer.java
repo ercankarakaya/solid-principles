@@ -1,10 +1,10 @@
-package com.ercan.OpenClosed.app;
+package com.ercan.OpenClosed.example1.app;
 
-import com.ercan.OpenClosed.*;
-import com.ercan.OpenClosed.enumtype.CarType;
-import com.ercan.OpenClosed.impl.BMW;
-import com.ercan.OpenClosed.impl.Mercedes;
-import com.ercan.OpenClosed.impl.Toyota;
+import com.ercan.OpenClosed.example1.Car;
+import com.ercan.OpenClosed.example1.enumtype.CarType;
+import com.ercan.OpenClosed.example1.impl.BMW;
+import com.ercan.OpenClosed.example1.impl.Mercedes;
+import com.ercan.OpenClosed.example1.impl.Toyota;
 
 public class SpeedOrganizer {
 

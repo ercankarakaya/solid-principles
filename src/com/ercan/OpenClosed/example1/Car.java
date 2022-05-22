@@ -1,6 +1,6 @@
-package com.ercan.OpenClosed;
+package com.ercan.OpenClosed.example1;
 
-import com.ercan.OpenClosed.enumtype.CarType;
+import com.ercan.OpenClosed.example1.enumtype.CarType;
 
 public abstract class Car {
 

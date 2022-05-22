@@ -1,7 +1,7 @@
-package com.ercan.OpenClosed.impl;
+package com.ercan.OpenClosed.example1.impl;
 
-import com.ercan.OpenClosed.Car;
-import com.ercan.OpenClosed.enumtype.CarType;
+import com.ercan.OpenClosed.example1.Car;
+import com.ercan.OpenClosed.example1.enumtype.CarType;
 
 public class Mercedes extends Car {
 

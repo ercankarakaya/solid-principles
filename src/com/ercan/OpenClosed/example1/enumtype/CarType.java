@@ -1,4 +1,4 @@
-package com.ercan.OpenClosed.enumtype;
+package com.ercan.OpenClosed.example1.enumtype;
 
 public enum  CarType {
 
