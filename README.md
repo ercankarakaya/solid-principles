@@ -1,4 +1,4 @@
-Solid Principles in Java
+# Solid Principles in Java
 - Single Responsibility Principle
 - Open/Closed Principle
 - Liskov Substitution Principle
